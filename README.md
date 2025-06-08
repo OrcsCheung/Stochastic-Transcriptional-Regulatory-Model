@@ -3,7 +3,7 @@ The Synthetic TR Model source code with user instructions
 
 Authors: Zhang Shuo, Kumar Selerajoo
 
-Data and code related to our paper "Synthetic Data to Explore Transcriptional Regulation of Differentially Expressed Genes in Ovarian Cancer.
+Data and code related to our paper "Synthetic Data to Explore Transcriptional Regulation of Differentially Expressed Genes in Ovarian Cancer".
 
 The 'Code' folder include the Ovarian dataset and code to reproduce this research.
 
