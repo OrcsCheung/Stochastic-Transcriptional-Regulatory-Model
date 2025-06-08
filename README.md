@@ -5,7 +5,9 @@ Authors: Zhang Shuo, Kumar Selerajoo
 
 Data and code related to our paper "Synthetic Data to Explore Transcriptional Regulation of Differentially Expressed Genes in Ovarian Cancer".
 
-The 'Code' folder include the Ovarian dataset and code to reproduce this research.
+The 'code' folder include code to reproduce this research.
+
+The 'data' folder include the dataset of Ovarain cancer
 
 Should you have any other technical questions, please feel free to contact kumar_selvarajoo@bii.a-star.edu.sg. 
 
