@@ -7,7 +7,7 @@ Data and code related to our paper "Synthetic Data to Explore Transcriptional Re
 
 The 'code' folder include code to reproduce this research.
 
-The 'data' folder include the dataset of Ovarain cancer
+The 'data' folder include the dataset of Ovarain cancer.
 
 Should you have any other technical questions, please feel free to contact kumar_selvarajoo@bii.a-star.edu.sg. 
 
