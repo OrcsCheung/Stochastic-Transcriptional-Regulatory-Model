@@ -1,3 +1,5 @@
 # Stochastic-Transcriptional-Regulatory-Model
 The Synthetic TR Model source code with user instructions 
-![Uploading Screenshot 2025-04-16 at 3.25.59 AM.png…]()
+
+<img width="567" alt="process" src="https://github.com/user-attachments/assets/4af6ac52-be65-4ad8-b4bc-817cd751683f" />
+
